@@ -1,3 +1,3 @@
 # AI-Summer-Camps-Brief-Data
 
-The AI Summer camps brief data file contains the list of the summer camps that were used in CSET's AI summer camps data brief. We acknowledge that this list might not contain every summer camp that currently exists that meets our search parameters as outlined in the brief's methodology and is merely a snapshot of what information we could find at the time the brief was written. 
+This repo contains the AI Summer Camps catalog that was used in the "U.S. AI Summer Camps: Opportunities and Gaps for Youth" CSET Data Brief. Note that the list of camps collected were a snapshot of what was available at the time and that additional camps could have been made publically available since the brief was written. 
